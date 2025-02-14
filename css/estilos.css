@@ -5,12 +5,12 @@
 }
 html{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 1em;
 }
  
 header{
-    background-color: black;
-    color: whitesmoke;
+    background: linear-gradient(to left, #fcba03, #000000);
+    color: rgba(241, 163, 19, 0.911);
     padding: 1%;
 }
 
